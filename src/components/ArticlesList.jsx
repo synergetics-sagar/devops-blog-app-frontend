@@ -17,7 +17,7 @@ export default function ArticleList(){
 
     return (
         <>
-            <h3>Welcome to the Blog</h3>
+            <h3>Welcome to my Blog</h3>
 
             <ol>
             {
