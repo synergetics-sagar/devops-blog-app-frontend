@@ -9,7 +9,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/synergetics-sagar/devops-blog-app-frontend.git'
+                checkout scm
             }
         }
 
